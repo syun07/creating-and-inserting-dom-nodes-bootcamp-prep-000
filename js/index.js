@@ -3,4 +3,4 @@
  
 var element = document.createElement('div');
 
-console.log('Helo')
+console.log('Hello')
